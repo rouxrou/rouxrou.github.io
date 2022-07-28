@@ -13,6 +13,10 @@ xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
                 <availability available="yes" storeId="PP1"/>
             </availabilities>
             <price>489500</price>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">489500</cityprice>
+            </cityprices>
         </offer>
     </offers>
 </kaspi_catalog>
