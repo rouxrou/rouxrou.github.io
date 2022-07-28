@@ -6,14 +6,13 @@ xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
    <company>MadMouse</company>
     <merchantid>6840009</merchantid>
     <offers>
-        <offer sku="102298364">
-            <model>iphone 13 Black 128gb</model>
+        <offer sku="102298404">
+            <model>Смартфон Apple iPhone 13 128Gb черный</model>
             <brand>Apple</brand>
             <availabilities>
                 <availability available="yes" storeId="PP1"/>
-                <availability available="yes" storeId="PP1"/>
             </availabilities>
-            <price>489000</price>
+            <price>489500</price>
         </offer>
     </offers>
 </kaspi_catalog>
