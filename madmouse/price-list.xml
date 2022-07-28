@@ -8,12 +8,24 @@ xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
     <offers>
         <offer sku="102298404">
             <model>Смартфон Apple iPhone 13 128Gb черный</model>
-            <brand>Apple</brand>
+            <brand>apple</brand>
             <availabilities>
                 <availability available="yes" storeId="PP1"/>
+                <availability available="yes" storeId="PP2"/>
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">489500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="100257734">
+            <model>Телевизор Samsung UE32T4500AU черный</model>
+            <brand>samsung</brand>
+            <availabilities>
+                <availability available="yes" storeId="PP1"/>
+                <availability available="yes" storeId="PP2"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">147800</cityprice>
             </cityprices>
         </offer>
     </offers>
